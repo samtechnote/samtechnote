@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samtechnote
+- 👋 Hi, I’m Samuel Timothy
 - 👀 I’m interested in Programming and Technical Support
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Projects that require a lot of programming.
